@@ -118,7 +118,7 @@ body {
 
 
 section {
-    padding-top: 40px; 
+    padding-top: 20px; 
 }
 
 
@@ -192,12 +192,12 @@ footer {
 
     .left-side {
         width: 100%;
-        height: 47vh;
+        height: 46vh;
     }
 
     .right-side {
         width: 100%;
-        height: 53vh;
+        height: 52vh;
         justify-content: flex-start;
     }
 
