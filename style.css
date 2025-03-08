@@ -184,7 +184,7 @@ footer {
         width: 100%;
         height: 44vh;
         float: none;
-
+        margin-top: 0;
     }
 
     .right-side {
