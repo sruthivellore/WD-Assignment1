@@ -266,7 +266,7 @@ footer {
     }
 
     .profile-info {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         max-width: 90%;
     }
 
@@ -279,12 +279,25 @@ footer {
     }
 
     .navbar ul li a {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     footer {
         position: relative;
         margin-top: 5px;
     }
+    h3{
+        font-size: 0.8rem;
+    }
+    h2{
+        font-size: 0.9rem;
+    }
+    p{
+        font-size: 0.8rem;
+    }
+    .styled-box ul li {
+        font-size: 0.8rem;
+    }
+    
 }
 
 
