@@ -227,4 +227,8 @@ footer {
     .navbar ul li a {
         font-size: 0.9rem;
     }
+    footer {
+        position: relative;
+        margin-top: 5px;
+    }
 }
